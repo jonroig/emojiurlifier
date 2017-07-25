@@ -23,6 +23,6 @@ Simple... takes 30 seconds. Just add this to your source code:
 
 
 ## WTF?
-A free service from <a href="http://domainresearchgroup.net">Domain Research Group</a>. 
+A free service from <a href="http://domainresearchgroup.net">Domain Research Group</a>
 
 Get your own Emoji Domain at: <a href="https://i❤️.ws">i❤️.ws Emoji Domain Registration</a>
