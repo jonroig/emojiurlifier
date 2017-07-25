@@ -16,7 +16,7 @@ Simple... takes 30 seconds. Just add this to your source code:
 ... or just copy the <a href="https://github.com/jonroig/emojiurlifier/blob/master/emojiurlifier.js">EmojiURLifier.js source</a> and use it however you want.
 
 ## Troubleshooting
-* View the source of <a href="http://😎🌐.ws">😎🌐.ws<a/> as a reference.
+* View the source of <a href="http://😎🌐.ws">😎🌐.ws</a> as a reference.
 * Both your Emoji Domain and your "Regular" domain need to point to the same place. 
 * If you've been forwarding your Emoji Domain with a 301 redirect, you might need to restart Chrome
 
