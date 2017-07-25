@@ -14,7 +14,7 @@ Simple... takes 30 seconds. Just add this to your source code:
 </script>
 ```
 
-... or just copy the <a href="https://github.com/jonroig/emojiurlifier/blob/master/emojiurlifier.js">EmojiURLifier.js source</a> and use it however you want.
+... or just copy the <a href="https://github.com/jonroig/emojiurlifier/blob/master/emojiurlifier.js">EmojiURLifier.js source</a> and use it directly on your site or CDN.
 
 ## Troubleshooting
 * View the source of <a href="http://😎🌐.ws">😎🌐.ws</a> as a reference.
