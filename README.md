@@ -3,7 +3,7 @@
 
 Example: <a href="http://😎🌐.ws">😎🌐.ws<a/>
 
-... falls back to <a href="http://cooldomain.ws/">cooldomain.ws</a> on browsers which don't supprt Emoji Domains.
+... falls back to <a href="http://cooldomain.ws/">cooldomain.ws</a> on browsers which don't support Emoji Domains.
 
 ## Install
 Simple... takes 30 seconds. Just add this to your source code:
