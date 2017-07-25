@@ -1,7 +1,7 @@
 # EmojiURLifier
 ## Automatically switch between Emoji and "Regular" Domains
 
-Example: <a href="http://😎🌐.ws">😎🌐.ws</>
+Example: <a href="http://😎🌐.ws">😎🌐.ws<a/>
 ... falls back to <a href="http://cooldomain.ws/">cooldomain.ws</a> on browsers which don't supprt Emoji Domains.
 
 ## Install
@@ -22,4 +22,5 @@ Simple... takes 30 seconds. Just add this to your source code:
 
 
 ## WTF?
-A free service from <a href="http://domainresearchgroup.net">Domain Research Group</a>. <a href="https://i❤️.ws">i❤️.ws</a> Emoji Domain Registration and . 
+A free service from <a href="http://domainresearchgroup.net">Domain Research Group</a>. 
+Get your own Emoji Domain at: <a href="https://i❤️.ws">i❤️.ws Emoji Domain Registration</a>
