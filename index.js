@@ -6,7 +6,9 @@ var emojiurlifier = function (emojiDomain, standardDomain) {
     useEmojiDomain = false;
   }
   var currentUrl = wl.protocol + '//' + wl.hostname;
+
   var outputUrl = useEmojiDomain ? emojiDomain : standardDomain;
+  console.log(currentUrl, outputUrl);
   if (currentUrl === outputUrl) {
     return;
   }
