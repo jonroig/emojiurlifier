@@ -1,5 +1,7 @@
 var emojiurlifier = function (emojiDomain, standardDomain) {
-  console.log('Emoji Domain Progressive Enhancement by https://i❤️.ws')
+  console.log('Emoji Domain Progressive Enhancement by https://i❤️.ws');
+  console.log('Learn more at https://github.com/jonroig/emojiurlifier');
+
   var wl = window.location;
   var useEmojiDomain = /^((?!chrome).)*safari/i.test(navigator.userAgent);
   if (navigator.userAgent.indexOf('CriOS') > -1) {
@@ -8,7 +10,6 @@ var emojiurlifier = function (emojiDomain, standardDomain) {
   var currentUrl = wl.protocol + '//' + wl.hostname;
 
   var outputUrl = useEmojiDomain ? emojiDomain : standardDomain;
-  console.log(currentUrl, outputUrl);
   if (currentUrl === outputUrl) {
     return;
   }
@@ -16,5 +17,6 @@ var emojiurlifier = function (emojiDomain, standardDomain) {
     outputUrl += ':'+wl.port;
   }
   outputUrl += wl.pathname;
+  outputUrl += wl.search;
   window.location = outputUrl;
 }
