@@ -1,4 +1,4 @@
-# EmojiURLifier
+# EmojiURLifier - Proressive Enhancement for Emoji Domains
 ## Automatically switch between Emoji and "Regular" Domains
 
 Example: <a href="http://😎🌐.ws">😎🌐.ws<a/>
@@ -18,7 +18,7 @@ Simple... takes 30 seconds. Just add this to your source code:
 
 ## Troubleshooting
 * View the source of <a href="http://😎🌐.ws">😎🌐.ws</a> as a reference.
-* Both your Emoji Domain and your "Regular" domain need to point to the same place. 
+* Both your Emoji Domain and your "regular" domain need to point to the same place. 
 * If you've been forwarding your Emoji Domain with a 301 redirect, you might need to restart Chrome
 
 
