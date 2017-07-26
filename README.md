@@ -1,4 +1,4 @@
-# EmojiURLifier - Proressive Enhancement for Emoji Domains
+# EmojiURLifier - Progressive Enhancement for Emoji Domains
 ## Automatically switch between Emoji and "Regular" Domains
 
 Example: <a href="http://😎🌐.ws">😎🌐.ws<a/>
