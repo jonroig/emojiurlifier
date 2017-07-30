@@ -16,6 +16,10 @@ Simple... takes 30 seconds. Just add this to your source code:
 
 ... or just copy the <a href="https://github.com/jonroig/emojiurlifier/blob/master/emojiurlifier.js">EmojiURLifier.js source</a> and use it directly on your site or CDN.
 
+## Longer Explanation
+Medium: <a href="https://medium.com/@Emoji_Domains/cool-domains-for-cool-people-less-cool-domains-for-less-cool-people-1fad31b64748">Cool Domains for Cool People, Less Cool Domains for Less Cool People: 
+Progressive Enhancement to Emoji Domains</a>
+
 ## Troubleshooting
 * View the source of <a href="http://😎🌐.ws">😎🌐.ws</a> as a reference.
 * Both your Emoji Domain and your "regular" domain need to point to the same place. 
